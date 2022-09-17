@@ -20,6 +20,6 @@ public class Main {
             j++;
 
         }while(j<10);
-        System.out.println("do while dongusu bitti");
+        System.out.println("do while dongusu bitti!");
     }
 }
