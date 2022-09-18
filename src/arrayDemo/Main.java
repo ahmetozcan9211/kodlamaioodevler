@@ -20,6 +20,11 @@ public class Main {
         for(int i=0;i<ogrenciler.length;i++){
             System.out.println(ogrenciler[i]);
         }
+        System.out.println("------------------------");
+
+        for(String ogrenci:ogrenciler){
+            System.out.println(ogrenci);
+        }
 
     }
 }
